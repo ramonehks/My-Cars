@@ -19,6 +19,8 @@ Potência: aprox. +235CV
 <br>
 Motor D17Z3 Civic 2006 VTEC
 <br>
+Turbo
+<br>
 Fueltech FT350
 <br>
 Câmbio AT G5 Original
