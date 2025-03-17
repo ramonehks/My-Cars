@@ -33,7 +33,7 @@ Embreagem de cerâmica pedal leve
 <br>
 Pneus Michelin R21 Pilot
 <br>
-Rodas König bronze 57TZ
+Rodas König bronze 57TZ aro 18
 <br>
 Discos de freio Shimano RT-M5
 <br>
