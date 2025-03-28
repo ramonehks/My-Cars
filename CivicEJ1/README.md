@@ -76,3 +76,9 @@ Placa Paraguay
 Direção Hidraulica
 <br>
 Adesivado (Legalização cód. 128b12125a --- 11/01/2025
+<br>
+
+<h1>Galeria</h1>
+
+![Image](https://github.com/user-attachments/assets/f63d61b3-01d4-4a82-af6c-2f22f74ec905)
+![Image](https://github.com/user-attachments/assets/4063a005-376e-40a3-9161-8f3ea21ab8f7)
