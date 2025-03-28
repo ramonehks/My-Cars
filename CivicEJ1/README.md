@@ -81,4 +81,4 @@ Adesivado (Legalização cód. 128b12125a --- 11/01/2025
 <h1>Galeria</h1>
 
 ![Image](https://github.com/user-attachments/assets/f63d61b3-01d4-4a82-af6c-2f22f74ec905)
-![Image](https://github.com/user-attachments/assets/4063a005-376e-40a3-9161-8f3ea21ab8f7)
+![Image](https://github.com/user-attachments/assets/48be0c18-4094-4b9b-b460-a4bca97d9893)
