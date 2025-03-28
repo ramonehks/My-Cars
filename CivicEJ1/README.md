@@ -9,7 +9,7 @@ Versão: EJ1
 <br>
 Ano: 1995
 <br>
-KM: 110.701 (Painel)
+KM: 6.701 (Painel)
 <br>
 Cor: Preto
 <br>
@@ -17,19 +17,25 @@ Potência: aprox. +235CV
 
 <h1>Descrição</h1>
 <br>
-Motor D17Z3 Civic 2006 VTEC
+Motor 1.8 VTEC B18
 <br>
-Turbo
+Turbo T66
 <br>
-Fueltech FT350
+Fueltech FT400 LT
+<br>
+Kit Nitro N.O.S 5.5lb
+<br>
+Sistema de exaustão MoTec
 <br>
 Câmbio AT G5 Original
 <br>
 Bucha de PU
 <br>
-Pneus Mashimoto ZX 
+Pneus Yokohama
 <br>
-Discos de freio Brembo
+Aro Axis Neo Wheels aro 16
+<br>
+Discos de freio Wilwood
 <br>
 Pastilhas de freio Brembo
 <br>
@@ -43,7 +49,7 @@ Pinça de freio frisada
 <br>
 Interna de cor Chumbo
 <br>
-Volante original Sparco P222
+Volante original Sparco P222 (botôes de nitro duplo)
 <br>
 Vidros elétricos
 <br>
@@ -58,11 +64,14 @@ Bancos Sparco Rev QRT
 Luz neon inferior Streetglow, cor Verde Plasma
 
 <h1>Bodykit</h1>
-Veilside EC-I
+
+2DR GT Bomber (Para-choque frontal e dianteiro)
+<br>
+Spoiler Veilside Style Kombat (Dual-Deck)
 
 <h1>Documento</h1>
 <br>
-Placa Mercosul
+Placa Paraguay
 <br>
 Direção Hidraulica
 <br>
