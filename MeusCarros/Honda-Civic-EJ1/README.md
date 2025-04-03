@@ -9,7 +9,7 @@ Versão: EJ1
 <br>
 Ano: 1995
 <br>
-KM: 6.701 (Painel)
+KM: 157.515 (Painel)
 <br>
 Cor: Preto
 <br>
