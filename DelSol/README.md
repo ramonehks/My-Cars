@@ -19,16 +19,31 @@ Potência: aprox. +330CV
 <br>
 Motor 1.6L SOHC VTEC
 <br>
-Garret GT2860RS I
-<br>
 Kit Nitro NitrousExpress 5.5lb
 <br>
 Sistema de Exaustão Cat-Back 3" Polegadas | (Oval Muffler)
 <br>
 Câmbio D-Series Y21 | Skunk2 Short Shift
 <br>
-Freios StopTech Sport Disc
+Freios StopTech Sport Disc | Com pinça de freio frisada
 <br>
-Roda Work Emotion (modelo desconhecido) | Aro 17'
+Roda Work Emotion (com série desconhecida) | Aro 17'
 <br>
 Pneus Michelin PS4
+<br>
+Discos de Freio Garret GT2860RS I
+<br>
+Intake HKS Super Power Flow | Filtro de 150mm de diâmetro, entrada de 3” polegadas.
+<br>
+Faróis de Fábrica | Crystal Clear
+<br>
+Volante de fábrica
+<br>
+Bancos Esportivos Honda H3 | Couro
+<br>
+Odômetro Stillen X-Series | 8P
+
+<h1>Bodykit</h1>
+Parachoque Shark5 Si
+<br>
+Traseira de fabrica | + Polimento
