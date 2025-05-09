@@ -7,7 +7,7 @@ Modelo: Civic
 <br>
 Versão: EJ1
 <br>
-Ano: 1995
+Ano: 1993
 <br>
 KM: 157.515 (Painel)
 <br>
