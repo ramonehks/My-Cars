@@ -50,5 +50,4 @@ Traseira de fabrica | + Polimento
 
 <h1>Galeria</h1>
 
-![Image](https://github.com/user-attachments/assets/7d98c3fa-d5d9-4257-9549-b6e29c7761ec)
 ![Image](https://github.com/user-attachments/assets/f2550376-a088-48a0-97ba-106cd406a2fc)
