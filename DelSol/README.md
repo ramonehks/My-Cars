@@ -9,7 +9,7 @@ Versão: Del Sol
 <br>
 Ano: 1993
 <br>
-KM: 219.122 (Painel)
+KM: 29.122 (Painel)
 <br>
 Cor: Tangerina
 <br>
