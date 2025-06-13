@@ -44,7 +44,7 @@ Bancos Esportivos Honda H3 | Couro
 Odômetro Stillen X-Series | 8P
 
 <h1>Bodykit</h1>
-Parachoque Shark5 Si
+Parachoque Shark5 Si | + Polimento
 <br>
 Traseira de fabrica | + Polimento
 
