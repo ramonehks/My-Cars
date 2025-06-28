@@ -13,7 +13,7 @@ KM: 29.122 (Painel)
 <br>
 Cor: Tangerina
 <br>
-Potência: aprox. +276 HP
+Potência: aprox. +376 HP
 
 <h1>Descrição</h1>
 <br>
