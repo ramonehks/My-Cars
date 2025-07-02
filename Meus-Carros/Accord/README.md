@@ -37,7 +37,7 @@ Válvulas SuperTech + Cabeçote Portado
 <br>
 Kit Nitro ZEX 82022 | 
 <br>
-Embreagem Exedy ou ACT HD‑SS para 400+ cv | + Direção (volante) Sparco P222
+Embreagem Exedy ou ACT HD‑SS + Direção (volante) Sparco P222
 <br>
 Transmissão reforçada Prelude M2Y4, <b>manual</b> | câmbio de 5 velocidades
 <br>
