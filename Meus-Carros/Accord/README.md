@@ -1,4 +1,4 @@
-## Honda Accord EX
+## Honda Accord EX 
 <h1>Dados do Veículo</h1>
 <br>
 Marca: Honda
@@ -19,13 +19,35 @@ Potência: aprox. +448 cv
 
 <h1>Descrição</h1>
 <br>
-Motor VTEC H22A 2.2 H-Series
+Motor VTEC H22A 2.2 H-Series | Swap Hondata S300 + Turbo | Câmaras Stage 2 Skunk2
+<br>
+Turbo BorgWarner S300
+<br>
+Pistões forjados Wiseco (8.8:1 – 11:1 CRS)
+<br>
+Bielas H-Beam
+<br>
+Sistema de Combustível AEM
+<br>
+Admissão de Intake manifold Skunk2 Pro Series (H22/F22) (70mm)
+<br>
+Escape Downpipe 3″ stainless + cat-back.
+<br>
+Válvulas SuperTech + Cabeçote Portado
 <br>
 Kit Nitro ZEX 82022 | 
 <br>
-
-
-
+Embreagem Exedy ou ACT HD‑SS para 400+ cv | + Direção (volante) Sparco P222
+<br>
+Transmissão reforçada Prelude M2Y4, <b>manual</b> | câmbio de 5 velocidades
+<br>
+Diferencial Quaife LSD, alinhamento específico.
+<br>
+Suspensões Eibach
+<br>
+Freios Wilwood Dynalite IV + discos slotted, pastilhas Hawk HPS 
+<br>
+Rodas anteriores Advan RG2 | Atuais -  Advan RZ3
 
 
 <h1>Bodykit</h1>
