@@ -54,7 +54,7 @@ Pneus Mashamoto ZX
 <br>
 Escapamento HKS Jimny Sierra
 <br>
-Neon Inferior (cor azul)
+Neon  StreetGlow(Inferior) (cor azul)
 <br>
 
 
