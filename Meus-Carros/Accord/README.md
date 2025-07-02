@@ -5,7 +5,7 @@ Marca: Honda
 <br>
 Modelo: Accord
 <br>
-Versão: EX
+Versão: EX Coupê
 <br>
 Ano: 1995
 <br>
@@ -35,9 +35,10 @@ Escape Downpipe 3″ stainless + cat-back.
 <br>
 Válvulas SuperTech + Cabeçote Portado
 <br>
+Radiador Koyo (koyorad) | Alumínio
 Kit Nitro ZEX 82022 | 
 <br>
-Embreagem Exedy ou ACT HD‑SS + Direção (volante) Sparco P222
+Embreagem Exedy + Direção Sparco P222
 <br>
 Transmissão reforçada Prelude M2Y4, <b>manual</b> | câmbio de 5 velocidades
 <br>
@@ -47,9 +48,30 @@ Suspensões Eibach
 <br>
 Freios Project Mu VIII + discos slotted, pastilhas Hawk HPS 
 <br>
-Rodas anteriores Advan RG2 | Atuais -  Advan RZ3
+Rodas Atuais Advan RZ3
+<br>
+Pneus Mashamoto ZX
+<br>
+Escapamento HKS Jimny Sierra
+<br>
+Neon Inferior (cor azul)
+<br>
 
 
+<h1>Interior</h1>
+Bancos de couro substituidos por bancos Bride Zeta III (preto).
+<br>
+Tapetes de Aluminio
+<br>
+Volante Sparco P222
+<br>
+Toca CD Kenwood KDC-MP165
+<br>
+Manopla de Câmbio Sparco Settanta ( Branco e laranja)
+<br>
+Luz atmosferica usb -- " Neon " (cor roxa)
+<br>
+Cinto de 4 pontos Sparco
 <h1>Bodykit</h1>
 
 <h1>Galeria</h1>
