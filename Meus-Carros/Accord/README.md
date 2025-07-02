@@ -45,15 +45,12 @@ Diferencial Quaife LSD, alinhamento específico.
 <br>
 Suspensões Eibach
 <br>
-Freios Wilwood Dynalite IV + discos slotted, pastilhas Hawk HPS 
+Freios Project Mu VIII + discos slotted, pastilhas Hawk HPS 
 <br>
 Rodas anteriores Advan RG2 | Atuais -  Advan RZ3
 
 
 <h1>Bodykit</h1>
-Parachoque Shark5 Si | + Polimento
-<br>
-Traseira de fabrica | + Polimento
 
 <h1>Galeria</h1>
 
