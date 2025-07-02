@@ -71,8 +71,10 @@ Manopla de Câmbio Sparco Settanta ( Branco e laranja)
 <br>
 Luz atmosferica usb -- " Neon " (cor roxa)
 <br>
-Cinto de 4 pontos Sparco
+Cinto de 4 pontas Sparco
 <h1>Bodykit</h1>
 
 <h1>Galeria</h1>
 
+![Image](https://github.com/user-attachments/assets/6f9f0fa3-9ac2-42dc-9193-e8028ad52048)
+![Image](https://github.com/user-attachments/assets/289a9617-4839-41ba-8271-a765c8c130d8)
